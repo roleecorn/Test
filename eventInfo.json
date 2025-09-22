@@ -1,4 +1,10 @@
 {
   "eventName": "Test",
-  "participants": []
+  "participants": [
+    {
+      "uid": 1,
+      "id": "534243081135063041",
+      "name": "roleecorn"
+    }
+  ]
 }
